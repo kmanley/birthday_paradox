@@ -35,4 +35,5 @@ if __name__ == "__main__":
     find_avg_crowd_size(5000)
     for i in range(1, 76):
         find_probability_given_crowd_size(i, 5000)
+
             
